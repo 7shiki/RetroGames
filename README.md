@@ -28,6 +28,5 @@ We support multiple gaming consoles, including:
 - 🎮 **Arcade** (MAME-based classics)
 - 🎮 **Atari** & **NEC Consoles**
 
-This repository serves as a **development hub** for improving the website, fixing bugs, and adding new features.
 
 
