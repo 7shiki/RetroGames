@@ -30,14 +30,4 @@ We support multiple gaming consoles, including:
 
 This repository serves as a **development hub** for improving the website, fixing bugs, and adding new features.
 
----
 
-## 🛠️ How to Contribute
-
-We welcome contributions from the community! Here’s how you can help:
-
-1. **Fork** this repository.
-2. **Clone** your forked repo:
-   ```bash
-   git clone https://github.com/your-username/retro-games.git
-   cd retro-games
