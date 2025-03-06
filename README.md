@@ -25,7 +25,7 @@ Retro Games is an online platform that brings **classic retro games** to your br
 We support multiple gaming consoles, including:
 - 🎮 **Nintendo** (NES, SNES, Game Boy, GBC, GBA)
 - 🎮 **Sega** (Genesis, Master System, Game Gear)
-- 🎮 **Sony PlayStation** (PS1)
+- 🎮 **Sony PlayStation** (PS1,PSX)
 - 🎮 **Arcade** (MAME-based classics)
 - 🎮 **Atari** & **NEC Consoles**
 
